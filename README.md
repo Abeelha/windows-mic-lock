@@ -122,6 +122,18 @@ Then delete `C:\Scripts\mic_lock.ps1`.
 
 ---
 
+## Donation
+
+If this saved your sanity, consider buying me a coffee:
+
+```
+Bitcoin  (BTC)  bc1qk5jlu7hk05uvfpt33pgeaf78lzvnkgjyur8q04
+Ethereum (ETH)  0xd8834fc5330896405EC1A5db4bE997093E0408A7
+USDC     (ETH)  0xd8834fc5330896405EC1A5db4bE997093E0408A7
+```
+
+---
+
 ## License
 
 MIT
